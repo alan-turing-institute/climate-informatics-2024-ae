@@ -49,10 +49,10 @@ Authors should be encouraged to push improvements through the artefact whenever 
 
 Artifact submissions require three parts:
 
-1. an overview of the artifact,
-2. a non-institutional URL pointing to either: a single file containing the artifact (recommended), or
-the address of a public source control repository
-3. A hash certifying the version of the artifact at submission time: either an md5 hash of the single file (use the md5 or md5sum command-line tool to generate the hash), or the full commit hash for the repository (e.g., from git reflog --no-abbrev)
+1. An overview of the artifact.
+2. A non-institutional URL pointing to either: a single file containing the artifact (recommended), or
+the address of a public source control repository.
+3. A hash certifying the version of the artifact at submission time: either an md5 hash of the single file (use the md5 or md5sum command-line tool to generate the hash), or the full commit hash for the repository (e.g., from git reflog --no-abbrev).
 
 The URL must be non-institutional to protect the anonymity of reviewers (in the case of a _closed_ proccess). Acceptable URLs can be obtained from Google Drive, Dropbox, Gitlab, Zenodo, and many other providers.
 
