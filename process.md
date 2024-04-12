@@ -66,7 +66,7 @@ The overview should be a document (markdown, text, or PDF) consisting of the fol
 
 3. A Getting Started guide, giving instructions for setup and basic testing. List any software requirements. The instructions should take roughly 30 minutes to complete. Reviewers will follow the guide during an initial kick-the-tires phase and report issues as they arise. The Getting Started Guide should be as simple as possible, and yet it should stress the key elements of your artifact. Anyone who has followed the Getting Started Guide should have no technical difficulties with the rest of your artifact.
 
-4. Step-by-Step Instructions for how you propose to evaluate the functionality of your artifact (with appropriate connections to the relevant sections of your paper) and reproduce any experiments or other activities that support the conclusions in your paper.  You should:
+4. Step-by-Step Instructions for how you propose to evaluate the functionality of your artifact (with appropriate connections to the relevant sections of your paper) and reproduce any experiments or other activities that support the conclusions in your paper. You should:
 
 * List all claims in the paper and state whether or not each is supported.
 
@@ -86,12 +86,11 @@ A good way to package artifacts is as a virtual machine (VM). VMs give an easily
 
 Submit your artifact as a single archive file (e.g., zip).
 
-## At CI2024
+# Support
 
-There will be a 1 hour session for authors who are considering submitting artefacts to give an overview of the approach, some lightning talks on producing reproducible artefacts, discussion of the criteria, and an opportunity to ask questions about the process.
+## Informative session at CI2024
 
-## During the review process
-- ReproHack checklist/feedback?
+There will be a 1 hour informal session for authors who are considering submitting artefacts to give an overview of the approach, some lightning talks on producing reproducible artefacts, discussion of the criteria, and an opportunity to ask questions about the process.
 
 # Other notes
 
