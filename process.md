@@ -6,7 +6,7 @@ A committee of reviewers, the Artefact Evaluation Committee (AEC), will review t
 
 # Timeline and Process
 
-Authors of full-papers that are accepted to the CUP journal proceedings will be encouraged (but not required) to submit supporting materials for Artefact Evaluation following the Climate Informatics conference, with a deadline of: XXXX.
+Authors of full-papers that are accepted to the Cambridge University Press (CUP) journal proceedings will be encouraged (but not required) to submit supporting materials for Artefact Evaluation following the Climate Informatics conference, with a deadline of: XXXX.
 
 The Artefact Evaluation Committee will review the artefacts, assessing whether they are functional (can be run) and whether the central results of the paper can be reproduced. The reviewers will interact with the authors to suggest how to improve the reproducibility if any issues are discovered.
 
@@ -49,10 +49,10 @@ Authors should be encouraged to push improvements through the artefact whenever 
 
 Artifact submissions require three parts:
 
-1. an overview of the artifact,
-2. a non-institutional URL pointing to either: a single file containing the artifact (recommended), or
-the address of a public source control repository
-3. A hash certifying the version of the artifact at submission time: either an md5 hash of the single file (use the md5 or md5sum command-line tool to generate the hash), or the full commit hash for the repository (e.g., from git reflog --no-abbrev)
+1. An overview of the artifact.
+2. A non-institutional URL pointing to either: a single file containing the artifact (recommended), or
+the address of a public source control repository.
+3. A hash certifying the version of the artifact at submission time: either an md5 hash of the single file (use the md5 or md5sum command-line tool to generate the hash), or the full commit hash for the repository (e.g., from git reflog --no-abbrev).
 
 The URL must be non-institutional to protect the anonymity of reviewers (in the case of a _closed_ proccess). Acceptable URLs can be obtained from Google Drive, Dropbox, Gitlab, Zenodo, and many other providers.
 
@@ -66,7 +66,7 @@ The overview should be a document (markdown, text, or PDF) consisting of the fol
 
 3. A Getting Started guide, giving instructions for setup and basic testing. List any software requirements. The instructions should take roughly 30 minutes to complete. Reviewers will follow the guide during an initial kick-the-tires phase and report issues as they arise. The Getting Started Guide should be as simple as possible, and yet it should stress the key elements of your artifact. Anyone who has followed the Getting Started Guide should have no technical difficulties with the rest of your artifact.
 
-4. Step-by-Step Instructions for how you propose to evaluate the functionality of your artifact (with appropriate connections to the relevant sections of your paper) and reproduce any experiments or other activities that support the conclusions in your paper.  You should:
+4. Step-by-Step Instructions for how you propose to evaluate the functionality of your artifact (with appropriate connections to the relevant sections of your paper) and reproduce any experiments or other activities that support the conclusions in your paper. You should:
 
 * List all claims in the paper and state whether or not each is supported.
 
@@ -86,12 +86,11 @@ A good way to package artifacts is as a virtual machine (VM). VMs give an easily
 
 Submit your artifact as a single archive file (e.g., zip).
 
-## At CI2024
+# Support
 
-There will be a 1 hour session for authors who are considering submitting artefacts to give an overview of the approach, some lightning talks on producing reproducible artefacts, discussion of the criteria, and an opportunity to ask questions about the process.
+## Informative session at CI2024
 
-## During the review process
-- ReproHack checklist/feedback?
+There will be a 1 hour informal session for authors who are considering submitting artefacts to give an overview of the approach, some lightning talks on producing reproducible artefacts, discussion of the criteria, and an opportunity to ask questions about the process.
 
 # Other notes
 
