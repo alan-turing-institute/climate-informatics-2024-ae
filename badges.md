@@ -22,6 +22,6 @@ The artifacts associated with the research are found to be documented, consisten
 
 The artifacts associated with the paper are of a quality that significantly exceeds minimal functionality. That is, they have all the qualities of the Artifacts Evaluated – Functional level, but, in addition, they are very carefully documented and well-structured to the extent that reuse and repurposing is facilitated. In particular, norms and standards of the research community for artifacts of this type are strictly adhered to. 
 
-- [ ] Document: Artifacts are very carefully documented and well-structured to the extent that reuse and repurposing is facilitated.
+- [ ] Artifacts are very carefully documented and well-structured to the extent that reuse and repurposing is facilitated.
 - [ ] Norms and standards of the research community for artifacts of this type are strictly adhered to (e.g., FAIR data and FAIR4RS). 
 - [ ] Be packaged to enable their reuse as a component in another project.
