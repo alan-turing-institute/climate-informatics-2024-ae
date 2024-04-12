@@ -19,9 +19,7 @@ If both parties agree to **open**, the interaction can take place in the open, e
 
 Reviewing will take place over 6 weeks.
 
-# Badges and Evaluation Criteria
-
-- alan-turing-institute/climate-informatics-2024-ae#3
+# [Badges and Evaluation Criteria](https://github.com/alan-turing-institute/climate-informatics-2024-ae/blob/main/badges.md)
 
 # Publishing workflow
 
