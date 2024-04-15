@@ -15,7 +15,7 @@ The artifacts associated with the research are found to be documented, consisten
 - [ ] Documented: At minimum, an inventory of artifacts is included, and sufficient description provided to enable the artifacts to be exercised.
 - [ ] Consistent: The artifacts are relevant to the associated paper, and contribute in some inherent way to the generation of its main results.
 - [ ] Complete: To the extent possible, all components relevant to the paper in question are included. (Proprietary artifacts need not be included. If they are required to exercise the package then this should be documented, along with instructions on how to obtain them. Proxies for proprietary data should be included so as to demonstrate the analysis.)
-- [ ] Exercisable: Included scripts and/or software used to generate the results in the associated paper can be successfully executed, and included data can be accessed and appropriately manipulated.
+- [ ] Exercisable: Included scripts and/or software used to generate the results (figures, tables, ...) in the associated paper can be successfully executed, and included data can be accessed and appropriately manipulated.
 
 
 ## Reusable
