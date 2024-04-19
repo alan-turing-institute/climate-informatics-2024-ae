@@ -1,12 +1,12 @@
 # Overview & Rationale
 
-Climate informatics, like many other communities and fields, has software at its heart. Underlying most publications is a novel piece of software playing some critical role, e.g., embodying a model, processing or analysing data, or producing a visualisation. In order for such software artefacts to have the most impact, they should be available, functional, and reusable, such that other researchers can benefit from the work, verify the claims of the paper, and then build upon the software to do more great work. These ideals are summarised by the FAIR principles of data, which can be applied to software: research software should be Findable, Accessible, Interoperable, and Reusable. In order to help promote [FAIR software](https://www.nature.com/articles/s41597-022-01710-x), Climate Informatics is embarking, for the first time, on an _Artefact Evaluation phase_ following the standard peer-review process. Artefact Evaluation provides an opportunity to embed the values of reproducibility into the publication process in a lightweight opt-in fashion, thus encouraging authors to make software available and the results of the paper reproducible.
+Climate informatics, like many other communities and fields, has software at its heart. Underlying most publications is a novel piece of software playing some critical role, e.g., embodying a model, processing or analysing data, or producing a visualisation. In order for such software artefacts to have the most impact, they should be available, functional, and reusable, such that other researchers can benefit from the work, verify the claims of the paper, and then build upon the software to do more great work. These ideals are summarised by the FAIR principles of data, which can be applied to software: research software should be Findable, Accessible, Interoperable, and Reusable. In order to help promote [FAIR software](https://www.nature.com/articles/s41597-022-01710-x), Climate Informatics is embarking, for the first time, on an _Artefact Evaluation phase_ for full paper submissions, after those submissions have been acceoted for publication as the conference proceedings in [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) following the traditional peer-review process. Artefact Evaluation provides an opportunity to embed the values of reproducibility into the publication process in a lightweight opt-in fashion, thus encouraging authors to make software available and the results of the paper reproducible.
 
-A committee of reviewers, the Artefact Evaluation Committee (AEC), will review the submitted artefacts against three criteria: is the software available? is it functional, and can it be used to reproduce the (central) claims or thesis of the paper?
+A committee of reviewers, the Artefact Evaluation Committee (AEC), will review the submitted artefacts against three [criteria](./badges): is the software available? is it functional, and can it be used to reproduce the (central) claims or thesis of the paper?
 
 # Timeline and Process
 
-Authors of full-papers that are accepted to the Cambridge University Press (CUP) journal proceedings will be encouraged (but not required) to submit supporting materials for Artefact Evaluation following the Climate Informatics conference, with a deadline of: XXXX.
+Authors of full-papers that are accepted to the Cambridge University Press (CUP) journal proceedings will be encouraged (but not required) to submit supporting materials for Artefact Evaluation following the Climate Informatics conference, with a deadline of: ==XXXX==.
 
 The Artefact Evaluation Committee will review the artefacts, assessing whether they are functional (can be run) and whether the central results of the paper can be reproduced. The reviewers will interact with the authors to suggest how to improve the reproducibility if any issues are discovered.
 
@@ -23,30 +23,40 @@ We want to avoid deincentivising authors who opt into the reproducibility challe
 
 # Guidelines for Reviewers
 
+Reviewers will be recruited to the AEC from the [Climate Informatics community](http://www.climateinformatics.org) (join [here](https://groups.google.com/g/climate-informatics-news)) and [Turing Environment and Sustainability Grand Challenge community](https://cassgvp.kumu.io/alan-turing-institute-environment-and-sustainability) (join [here](https://forms.office.com/pages/responsepage.aspx?id=p_SVQ1XklU-Knx-672OE-ZmEJNLHTHVFkqQ97AaCfn9UMTZKT1IwTVhJRE82UjUzMVE2MThSOU5RMC4u)). Please join either (or both!) communities to receive updates on reviewer training oportunities.
+
+## Requirements for reviewers
+We require a minimum level of practical experience in climate data science to participate as a reviewer. This ensures that the reivew process can focus on technical detail rather than computational literacy. Reviewers will be reuired to evidence their expereince through their own software publications. Full reviewer requirements will be published ==XXX==
+
 ## Expected workload
 
-- 16 submissions, 2 reviewers per AE submission, 2 submissions per reviewer (so AEC of up to 16 reviewers)
+- Each reviewer will be assigned 2 submissions
 - 2-hour on-boarding session to get everyone up to speed
+- Each review can be expected to take ==XXX== hours to complete, including direct communications with the submitting author via our review portal
+- Final reviews should be submitted by ==XXX==
+
+## Benefits to reviewers
+Reviewers will benefit from hands-on training in high fiedlity computational reproducibility, which we anticipate will support their own development of reproducible research artefacts. Reviewers will be able to reference their contribution as evidence of leadership culture change towards reproducibility, and invited to co-author a [retrospective report](#retrospective-report) to be published in [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) after the review process is complete. They will be [supported](#support) by the CI Reproducibility team and AEC throughout, thereby strenghthening their connections with this highly skilled team. 
 
 ##  Evaluation process
 
-Follow the checklists provided for each ["badge"](https://github.com/alan-turing-institute/climate-informatics-2024-ae/blob/main/badges.md).
+Reviewers will asses the artefacts against a checklists provided for each ["badge" level to be awarded](https://github.com/alan-turing-institute/climate-informatics-2024-ae/blob/main/badges.md).
 
-For each point, please briefly note what is the evidence for this claim, briefly noting anything you have done to validate that point (e.g., what did you need to reproduce a claim), as well as the outcome (negative, neutral, or positive) and a brief reason for your judgment.
+For each point, reviewers will be required to briefly note the evidence for this point, anything they have done to validate that point (e.g., what did you need to reproduce a claim), as well as the outcome (negative, neutral, or positive) and a brief reason for their judgment.
 
 ## Feedback to the authors
 
-Authors should be encouraged to push improvements to the artefact whenever possible. For example, if essential documentation is missing, then rather than just providing the reviewers with the required information, the authors should provide that information via an updated artefact.
+This process has been designed to be collaborative and itterative. Authors will be encouraged to push improvements to the artefact whenever possible. For example, if essential documentation is missing, then rather than sibmitting a negative evaluation or providing only the reviewers with the required information, the authors should provide that information via a versioned updated to the artefact.
 
-# Submitter guidelines
+# Author submission guidelines
 
 ## What authors should provide in their artefact submission
 
-Artifact submissions require three parts:
+Artifact submissions require three parts, as desribed below. ==Authors will be invited to attend reviewer training, to receive full guidance on the expectations and processes for submission described below.==
 
 1. An overview of the artifact.
 
-2. A non-institutional URL pointing to either: a single file containing the artifact (recommended), or the address of a public source control repository. The URL must be non-institutional to protect the anonymity of reviewers. Acceptable URLs can be obtained from Google Drive, Dropbox, Gitlab, Zenodo, and other providers.
+2. A non-institutional URL pointing to either: a single file containing the artifact (recommended), or the address of a public source control repository. The URL must be non-institutional to protect the anonymity of reviewers. Acceptable URLs can be obtained from Google Drive, Dropbox, Gitlab, Zenodo, and other providers. URLs may be generated using reviewer-only links. ==Do we prefer a versioned URL (e.g. DOI) here, or is that only expected if "accessible"==
 
 3. A hash certifying the version of the artifact at submission time: either an md5 hash of the single file (use the md5 or md5sum command-line tool to generate the hash), or the full commit hash for the repository (e.g., from git reflog --no-abbrev).
 
@@ -80,7 +90,7 @@ A good way to package artifacts is as a virtual machine (VM). VMs give an easily
 
 # Support
 
-There will be a 1-hour informal session for authors who are considering submitting artefacts to give an overview of the approach. This will happen online after CI 2024.
+There will be a 1-hour informal session for authors ==and reviewers== who are considering submitting artefacts to give an overview of the approach. This will happen online after CI 2024.
 
 There will also be a panel about reproducibility at CI2024 which will provide some motivation and inspiration.
 
@@ -88,4 +98,4 @@ The arteface chairs are available to ask any quetions about the process or to as
 
 # Retrospective report
 
-The reproducibility chairs will produce a general report after the artefact evaluation process documenting the approach and reporting on experiences. Reviewers will be invited to co-author the report, providing their experiences. Any experiences will be anonymised however with respect to the artefacts.
+The reproducibility chairs will produce a general report after the artefact evaluation process documenting the approach and reporting on experiences. Reviewers ==and authors== will be invited to co-author the report, providing their experiences. Any experiences will be anonymised however with respect to the artefacts.
