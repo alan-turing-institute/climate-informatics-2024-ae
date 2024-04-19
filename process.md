@@ -10,12 +10,6 @@ Authors of full-papers that are accepted to the Cambridge University Press (CUP)
 
 The Artefact Evaluation Committee will review the artefacts, assessing whether they are functional (can be run) and whether the central results of the paper can be reproduced. The reviewers will interact with the authors to suggest how to improve the reproducibility if any issues are discovered.
 
-Per artefact, authors and reviewers will be asked whether they would like their interactions on the artefact reviewing to be:
-
- * **closed** Carried out through a closed interface with reviewers anonymous;
- * **open** Carried out through GitHub/GitLab issues with reviewers’ identities known.
-
-If both parties agree to **open**, the interaction can take place in the open, e.g. with reviewers raising tickets/issues when they encounter problems, or even contributing a PR if there is a fix. If any party chooses **closed** then interactions between reviewers and authors will take place via an anonymous, closed interface, but interaction is still encouraged. Either way, this should be seen as a collaborative activity that brings benefits to both the authors and the wider community.
 
 Reviewing will take place over 6 weeks.
 
@@ -52,7 +46,7 @@ Artifact submissions require three parts:
 
 1. An overview of the artifact.
 
-2. A non-institutional URL pointing to either: a single file containing the artifact (recommended), or the address of a public source control repository. The URL must be non-institutional to protect the anonymity of reviewers (in the case of a _closed_ proccess). Acceptable URLs can be obtained from Google Drive, Dropbox, Gitlab, Zenodo, and many other providers.
+2. A non-institutional URL pointing to either: a single file containing the artifact (recommended), or the address of a public source control repository. The URL must be non-institutional to protect the anonymity of reviewers. Acceptable URLs can be obtained from Google Drive, Dropbox, Gitlab, Zenodo, and other providers.
 
 3. A hash certifying the version of the artifact at submission time: either an md5 hash of the single file (use the md5 or md5sum command-line tool to generate the hash), or the full commit hash for the repository (e.g., from git reflog --no-abbrev).
 
