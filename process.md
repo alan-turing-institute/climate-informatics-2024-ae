@@ -1,6 +1,6 @@
 # Overview & Rationale
 
-Climate informatics, like many other communities and fields, has software at its heart. Underlying most publications is a novel piece of software playing some critical role, e.g., embodying a model, processing or analysing data, or producing a visualisation. In order for such software artefacts to have the most impact, they should be available, functional, and reproducible, such that other researchers can benefit from the work, verify the claims of the paper, and then build upon it to do more great work. These ideals are summarised by the FAIR principles of data, which can be applied to software: research software should be Findable, Accessible, Interoperable, and Reusable. In order to help promote [FAIR software](https://www.nature.com/articles/s41597-022-01710-x), Climate Informatics is embarking, for the first time, on an Artefact Evaluation phase following the standard peer-review process. Artefact Evaluation provides an opportunity to embed the values of reproducibility into the publication process in a lightweight opt-in fashion, thus encouraging authors to make software available and the results of the paper reproducible.
+Climate informatics, like many other communities and fields, has software at its heart. Underlying most publications is a novel piece of software playing some critical role, e.g., embodying a model, processing or analysing data, or producing a visualisation. In order for such software artefacts to have the most impact, they should be available, functional, and reproducible, such that other researchers can benefit from the work, verify the claims of the paper, and then build upon the software to do more great work. These ideals are summarised by the FAIR principles of data, which can be applied to software: research software should be Findable, Accessible, Interoperable, and Reusable. In order to help promote [FAIR software](https://www.nature.com/articles/s41597-022-01710-x), Climate Informatics is embarking, for the first time, on an _Artefact Evaluation phase_ following the standard peer-review process. Artefact Evaluation provides an opportunity to embed the values of reproducibility into the publication process in a lightweight opt-in fashion, thus encouraging authors to make software available and the results of the paper reproducible.
 
 A committee of reviewers, the Artefact Evaluation Committee (AEC), will review the submitted artefacts against three criteria: is the software available? is it functional, and can it be used to reproduce the (central) claims or thesis of the paper?
 
@@ -27,19 +27,22 @@ We want to avoid deincentivising authors who opt into the reproducibility challe
 
 (In the CUP platform is there is no functionality for versioning articles. However, there is a precedent for retrospectively updating a published article with a badge by using an addendum. See for example https://doi.org/10.1017/dap.2022.5. In this case it was a mistake: the original article (https://doi.org/10.1017/dap.2021.38) wasn’t awarded Open Data and Open Materials badges when it should have been. So we published the addendum and retrospectively updated the original article and Data Availability Statement with the badges.)
 
-## Versioning
-
-[Dominic: not sure we need this part, have mentioned things about versions below]
-[DOIs, specific versions]
-
 # Guidelines for Reviewers
-
-Authors should be encouraged to push improvements through the artefact whenever possible. For example, if essential documentation is missing, then rather than just providing the reviewers with the required information, the authors should provide that information via an updated artefact.
 
 ## Expected workload
 
 - 16 submissions, 2 reviewers per AE submission, 2 submissions per reviewer (so AEC of up to 16 reviewers)
 - 2-hour on-boarding session to get everyone up to speed
+
+##  Evaluation process
+
+Follow the checklists provided for each ["badge"](https://github.com/alan-turing-institute/climate-informatics-2024-ae/blob/main/badges.md).
+
+For each point, please briefly note what is the evidence for this claim, briefly noting anything you have done to validate that point (e.g., what did you need to reproduce a claim), as well as the outcome (negative, neutral, or positive) and a brief reason for your judgment.
+
+## Feedback to the authors
+
+Authors should be encouraged to push improvements to the artefact whenever possible. For example, if essential documentation is missing, then rather than just providing the reviewers with the required information, the authors should provide that information via an updated artefact.
 
 # Submitter guidelines
 
@@ -48,13 +51,12 @@ Authors should be encouraged to push improvements through the artefact whenever 
 Artifact submissions require three parts:
 
 1. An overview of the artifact.
-2. A non-institutional URL pointing to either: a single file containing the artifact (recommended), or
-the address of a public source control repository.
+
+2. A non-institutional URL pointing to either: a single file containing the artifact (recommended), or the address of a public source control repository. The URL must be non-institutional to protect the anonymity of reviewers (in the case of a _closed_ proccess). Acceptable URLs can be obtained from Google Drive, Dropbox, Gitlab, Zenodo, and many other providers.
+
 3. A hash certifying the version of the artifact at submission time: either an md5 hash of the single file (use the md5 or md5sum command-line tool to generate the hash), or the full commit hash for the repository (e.g., from git reflog --no-abbrev).
 
-The URL must be non-institutional to protect the anonymity of reviewers (in the case of a _closed_ proccess). Acceptable URLs can be obtained from Google Drive, Dropbox, Gitlab, Zenodo, and many other providers.
-
-Artifacts do not need to be anonymous. Reviewers will be aware of author identities.
+Artifacts do not need to be anonymous as reviewers will be aware of author identities.
 
 The overview should be a document (markdown, text, or PDF) consisting of the following parts:
 
@@ -72,7 +74,7 @@ The overview should be a document (markdown, text, or PDF) consisting of the fol
 
     - For unsupported claims, explain why they are omitted. For example, this can be reasonable if it requires very long runs on clusters, or involves data sets that are proprietary. In this case, the authors should provide some mechanism by which claims can be tested by some other mechanism to establish the veracity of the approach, e.g., a smaller run or a different sample data set, with expected outputs.
 
-* Please  indicate how long you expect any runs to take that will typically take more than half a minute.
+* Please indicate how long you expect any runs to take that will typically take more than half a minute.
 
 It can be useful to describe how to perform runs on smaller input data sets. Reviewers may choose to run on smaller inputs or larger inputs depending on available resources.
 
@@ -82,24 +84,14 @@ When packaging your artifact, please keep in mind: a) how accessible you are mak
 
 A good way to package artifacts is as a virtual machine (VM). VMs give an easily reproducible environment that is somewhat resistant to bit rot. They also give reviewers confidence that errors or other problems cannot cause harm to their machines. Source code artifacts should use Docker or another build tool to manage all compilation and dependencies. This improves the odds that the reviewers will be able to quickly and painlessly install the artifact — without getting lost in environment issues ([e.g. what Python do I need?!](https://xkcd.com/1987/)).
 
-Submit your artifact as a single archive file (e.g., zip).
-
 # Support
 
-## Informative session at CI2024
+There will be a 1-hour informal session for authors who are considering submitting artefacts to give an overview of the approach. This will happen online after CI 2024.
 
-There will be a 1 hour informal session for authors who are considering submitting artefacts to give an overview of the approach, some lightning talks on producing reproducible artefacts, discussion of the criteria, and an opportunity to ask questions about the process.
+There will also be a panel about reproducibility at CI2024 which will provide some motivation and inspiration.
 
-# Other notes
+The arteface chairs are available to ask any quetions about the process or to ask advice about preparing the artefact or if any parts of the process are unclear.
 
-## Infrastructure
+# Retrospective report
 
-- Laptops, cloud-ready environment?, HPC?
-
-## Roles
-- Artefact Evaluation Committee member (reviewer)
-- Author
-- Publisher (CUP)
-- Reproducibility co-chair
-
-## Retrospective report
+The reproducibility chairs will produce a general report after the artefact evaluation process documenting the approach and reporting on experiences. Reviewers will be invited to co-author the report, providing their experiences. Any experiences will be anonymised however with respect to the artefacts.
