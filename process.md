@@ -45,7 +45,8 @@ For each point, reviewers will be required to briefly note the evidence for this
 
 ## Feedback to the authors
 
-This process has been designed to be collaborative and iterative. Authors will be encouraged to push improvements to the artefact whenever possible. For example, if essential documentation is missing, then rather than submitting a negative evaluation or providing only the reviewers with the required information, the authors should provide that information via a versioned updated to the artefact.
+This process has been designed to be collaborative and iterative. During the first 3 weeks, reviewers will be able to feed-back to authors.
+Authors will be encouraged to push improvements to the artefact whenever possible. For example, if essential documentation is missing, then rather than submitting a negative evaluation or providing only the reviewers with the required information, the authors should provide that information via a versioned updated to the artefact.
 
 # Author submission guidelines
 
