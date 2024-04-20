@@ -18,7 +18,7 @@ The artefacts associated with the research are documented, consistent with the p
 
 - [ ] Documented: At minimum, an inventory of artefacts is included, and sufficient description provided to enable the artefacts to be run.
 - [ ] Consistent: The artefacts are relevant to the associated paper, and contribute in some inherent way to the generation of its main results.
-- [ ] Complete: To the extent possible, all components relevant to the paper in question are included. (Any propreitary artefacts need not be included or data sets deemed to be too large. If any of these are required to exercise the artefact then this should be documented. Proxies for proprietary or large data should be included (e.g., alternate data sets, or smaller subsets of the data) so as to demonstrate the analysis and give evidence of its veracity.)
+- [ ] Complete: To the extent possible, all components relevant to the paper in question are included. (Any proprietary artefacts need not be included or data sets deemed to be too large. If any of these are required to exercise the artefact then this should be documented. Proxies for proprietary or large data should be included (e.g., alternate data sets, or smaller subsets of the data) so as to demonstrate the analysis and give evidence of its veracity.)
 - [ ] Exercisable: Scripts and/or software is provided to generate the results of the associated paper (e.g, figures, tables) and can be successfully executed.
 
 ## Reusable
