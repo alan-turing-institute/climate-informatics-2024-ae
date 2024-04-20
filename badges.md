@@ -8,6 +8,7 @@ The artefact evaluation process is based on the [artefact Review and Badging Ver
 - [ ] Relevant data sets are provided or are accessible where possible;
 - [ ] A DOI or link to an open-source code repository along with a unique identifier for the object is provided.
 - [ ] Tagged version or release for the code used to produce the paper.
+- [ ] An open-source license has been applied (for guidance, see https://choosealicense.com/)
 
 For example, Zenodo can be used to deposit a snapshot of the software, providing a DOI.
 
