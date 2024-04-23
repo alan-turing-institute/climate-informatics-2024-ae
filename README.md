@@ -38,7 +38,7 @@ We will be recruiting reviewers in the coming weeks, and working with them to de
 <!-- Identify who you are. Link to your lab pages. -->
 This work is being lead by the [Reproducibility working group](https://alan-turing-institute.github.io/climate-informatics-2024/team#reproducibility) of the Climate Informatics 2024 organisers. We are pleased to connect with you if you would like to participate in the leadership or delivery of this work!
 
-## Contact us: 
+## Contact us
 <!-- Give clear instructions for how people can get in touch. -->
 ### Slack
 Conenct with us via [Turing Environment and Sustainability Slack](https://alan-turing-institute.github.io/climate-informatics-2024/contact/#slack) - tag or dm Cassandra Gould van Praag (Turing Environment and Sustainability Senior Research Community Manager), or Alejandro Coca-Castro (CI2024 Reproducibility Chair)
@@ -51,7 +51,7 @@ Conenct with us via [Turing Environment and Sustainability Slack](https://alan-t
 <!-- Give clear guidance on how people should cite your material. This should include the doi for the repository and any supporting papers. -->
 The AE process is developed following [Association for Computing Machinery artefact Review and Badging Version 1.1](https://www.acm.org/publications/policies/artefact-review-and-badging-current).
 
-This repo and README follows the best practice for community participation of The Turing Way
+This repo and README follows the best practice for community participation of **The Turing Way**:
 
 The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2). Zenodo. https://doi.org/10.5281/zenodo.7625728
 
