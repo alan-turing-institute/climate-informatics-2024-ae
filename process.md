@@ -6,7 +6,7 @@ A committee of reviewers, the Artefact Evaluation Committee (AEC), will review t
 
 # Timeline and Process
 
-Authors of full-papers that are accepted to the Cambridge University Press (CUP) journal proceedings will be encouraged (but not required) to submit supporting materials for Artefact Evaluation following the Climate Informatics conference, with a deadline of: ==XXXX==.
+Authors of full-papers that are accepted to the Cambridge University Press (CUP) journal proceedings will be encouraged (but not required) to submit supporting materials for Artefact Evaluation following the Climate Informatics conference, with a deadline of: 12th September.
 
 The Artefact Evaluation Committee will review the artefacts, assessing whether they are functional (can be run) and whether the central results of the paper can be reproduced. The reviewers will interact with the authors to suggest how to improve the reproducibility if any issues are discovered.
 
@@ -31,8 +31,8 @@ We require a minimum level of practical experience in climate data science to pa
 
 - Each reviewer will be assigned 2 submissions
 - 2-hour on-boarding session to get everyone up to speed
-- Each review can be expected to take ==XXX== hours to complete, including direct communications with the submitting author via our review portal
-- Final reviews should be submitted by ==XXX==
+- Each review can be expected to take 8 hours to complete, including direct communications with the submitting author via our review portal
+- Final reviews should be submitted by TBD (mid October)
 
 ## Benefits to reviewers
 Reviewers will benefit from hands-on training in high fidelity computational reproducibility, which we anticipate will support their own development of reproducible research artefacts. Reviewers will be able to reference their contribution as evidence of leadership culture change towards reproducibility, and invited to co-author a [retrospective report](#retrospective-report) to be published in [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) after the review process is complete. They will be [supported](#support) by the CI Reproducibility team and AEC throughout, thereby strengthening their connections with this highly skilled team.
