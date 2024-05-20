@@ -90,7 +90,8 @@ A good way to package artifacts is as a virtual machine (VM). VMs give an easily
 
 # Support
 
-There will be a 1-hour informal session for authors ==and reviewers== who are considering submitting artefacts to give an overview of the approach. This will happen online after CI 2024.
+## Authors
+There was a 1-hour informal session on 20th May, 2024 for authors who are considering submitting artefacts to give an overview of the approach. The recording is available [here](https://drive.google.com/file/d/1A21CuzRpe7sQcTgc5Hza3Vp5EAWVcmH3/view?usp=sharing).
 
 There will also be a panel about reproducibility at CI2024 which will provide some motivation and inspiration.
 
