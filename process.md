@@ -30,8 +30,8 @@ We require a minimum level of practical experience in climate data science to pa
 ## Expected workload
 
 - Each reviewer will be assigned 2 submissions
-- 2-hour on-boarding session to get everyone up to speed
-- Each review can be expected to take 8 hours to complete, including direct communications with the submitting author via our review portal
+- There will be a 2-hour on-boarding session to get everyone up to speed
+- Each review can be expected to take up to 2 working days to complete, spread over the ~5 weeks of the review process, including time spent communicating with the submitting author using HotCRP. We will consider an artifact that takes longer than 2.5 working days to review to be “unreproducible” for the purposes of this review process.  
 - Final reviews should be submitted by TBD (mid October)
 
 ## Benefits to reviewers
