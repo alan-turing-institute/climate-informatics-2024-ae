@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Welcome to the 2024 Climate Artifact Evaluation Initiative!
+Welcome to the Climate Informatics 2024 Artifact Evaluation Initiative!
 
 ## The Problem
 Climate Informatics, like many other communities and fields, has software at its heart. Underlying most publications is a novel piece of software playing some critical role, e.g., embodying a model, processing or analysing data, or producing a visualisation. 
