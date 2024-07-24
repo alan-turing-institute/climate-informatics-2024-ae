@@ -2,7 +2,7 @@
 
 # Guidelines for Authors
 
-## What authors should provide in their artefact submission
+## What authors should provide in their artifact submission
 
 Artifact submissions require three parts, as described below. ==Authors will be invited to attend reviewer training, to receive full guidance on the expectations and processes for submission described below.==
 
@@ -36,14 +36,14 @@ It can be useful to describe how to perform runs on smaller input data sets. Rev
 
 5. A Reusability Guide for how you propose to evaluate the reusability of your artifact. Explain which parts of your artifact constitute the core pieces which should be evaluated for reusability. Explain how to adapt the artifact to new inputs or new use cases. Provide instructions for how to find/generate/read documentation about the core artifact. Articulate any limitations to the artifact’s reusability.
 
-When packaging your artifact, please keep in mind: a) how accessible you are making your artifact to other researchers, and b) the fact that the artefact committee members have a limited time.
+When packaging your artifact, please keep in mind: a) how accessible you are making your artifact to other researchers, and b) the fact that the artifact committee members have a limited time.
 
 A good way to package artifacts is as a virtual machine (VM). VMs give an easily reproducible environment that is somewhat resistant to bit rot. They also give reviewers confidence that errors or other problems cannot cause harm to their machines. Source code artifacts should use Docker or another build tool to manage all compilation and dependencies. This improves the odds that the reviewers will be able to quickly and painlessly install the artifact — without getting lost in environment issues ([e.g. what Python do I need?!](https://xkcd.com/1987/)).
 
 ## Support
 
-There was a 1-hour informal session on 20th May, 2024 for authors who are considering submitting artefacts to give an overview of the approach. The recording is available [here](https://drive.google.com/file/d/1A21CuzRpe7sQcTgc5Hza3Vp5EAWVcmH3/view?usp=sharing).
+There was a 1-hour informal session on 20th May, 2024 for authors who are considering submitting artifacts to give an overview of the approach. The recording is available [here](https://drive.google.com/file/d/1A21CuzRpe7sQcTgc5Hza3Vp5EAWVcmH3/view?usp=sharing).
 
 There will also be a panel about reproducibility at CI2024 which will provide some motivation and inspiration.
 
-The artefact chairs are available to ask any questions about the process or to ask advice about preparing the artefact or if any parts of the process are unclear.
+The artifact chairs are available to ask any questions about the process or to ask advice about preparing the artifact or if any parts of the process are unclear.
