@@ -1,0 +1,21 @@
+format: jb-book
+root: intro.md
+title: Welcome
+parts:
+- caption: Overview
+  chapters:
+    - file: overview/rationale
+    - file: overview/evaluation
+    - file: overview/future-ideas
+- caption: Details
+  chapters:
+  - file: details/timeline-schedule
+    title: Timeline and Schedule
+  - file: details/application
+    title: Application
+- caption: Guidelines
+  chapters:
+  - file: guidelines/authors
+    title: Authors
+  - file: guidelines/reviewers
+    title: Reviewers
