@@ -2,7 +2,7 @@
 
 # Future ideas
 
-Per artefact, authors and reviewers will be asked whether they would like their interactions on the artefact reviewing to be:
+Per artifact, authors and reviewers will be asked whether they would like their interactions on the artefact reviewing to be:
 
  * **Closed** Carried out through a closed interface with reviewers anonymous;
  * **Open** Carried out through GitHub/GitLab issues with reviewers’ identities known.
