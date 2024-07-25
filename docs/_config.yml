@@ -38,6 +38,7 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
+  announcement: "⚠️The website of the Artifact Evaluation initiative is in development. For general enquiries please refer to the Contact Us section in the landing page."
   use_issues_button: true
   use_repository_button: true
 #  announcement: "📣 Call to Reviewers is still Open (Deadline 13 May @ 23:59 AOE) - Find more at Details > Application! 📣"
