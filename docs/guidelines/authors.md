@@ -4,11 +4,11 @@
 
 ## What authors should provide in their artifact submission
 
-Artifact submissions require three parts, as described below. ==Authors will be invited to attend reviewer training, to receive full guidance on the expectations and processes for submission described below.==
+Artifact submissions require three parts, as described below. 
 
 1. An overview of the artifact.
 
-2. A non-institutional URL (or more, e.g. one for the code and one for the data) pointing to either: a single file containing the artifact (recommended), or the address of a public source control repository. The URL must be non-institutional to protect the anonymity of reviewers. Acceptable URLs can be obtained from Google Drive, Dropbox, Gitlab, Zenodo, and other providers. URLs may be generated using reviewer-only links. ==Do we prefer a versioned URL (e.g. DOI) here, or is that only expected if "accessible"==
+2. A non-institutional URL (or more, e.g. one for the code and one for the data) pointing to either: a single file containing the artifact (recommended), or the address of a public source control repository. The URL must be non-institutional to protect the anonymity of reviewers. Acceptable URLs can be obtained from Google Drive, Dropbox, Gitlab, Zenodo, and other providers. URLs may be generated using reviewer-only links.
 
 3. A hash certifying the version of the artifact at submission time: either an md5 hash of the single file (use the md5 or md5sum command-line tool to generate the hash), or the full commit hash for the repository (e.g., from git reflog --no-abbrev).
 
