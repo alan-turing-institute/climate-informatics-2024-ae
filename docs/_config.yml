@@ -1,0 +1,51 @@
+#######################################################################################
+# A default configuration that will be loaded for all jupyter books
+# See the documentation for help and more options:
+# https://jupyterbook.org/customize/config.html
+
+#######################################################################################
+# Book settings
+title                       : Climate Informatics 2024 Artifact Evaluation # The title of the book. Will be placed in the left navbar.
+author                      : <a href='https://alan-turing-institute.github.io/climate-informatics-2024/team#reproducibility'>The Reproducibility Working Group</a> of the Climate Informatics 2024 Organisers  # The author of the book
+copyright                   : "2024"  # Copyright year to be placed in the footer
+logo                        : "figures/logo-ae.png"  # A path to the book logo
+only_build_toc_files        : true
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: 'off'
+
+# Add a launch button on a specific binder instance
+launch_buttons:
+  binderhub_url: ""  # The URL for your BinderHub (e.g., https://mybinder.org)
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: ci2024_ae.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/acocac/climate-informatics-2024-ae  # Online location of your book
+  path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  announcement: "⚠️The website of the Artifact Evaluation initiative is in development. For general enquiries please refer to the Contact Us section in the landing page."
+  use_issues_button: true
+  use_repository_button: true
+#  announcement: "📣 Call to Reviewers is still Open (Deadline 13 May @ 23:59 AOE) - Find more at Details > Application! 📣"
+
+sphinx:
+  config:
+    html_js_files:
+    - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+  extra_extensions:
+    - sphinx_exercise

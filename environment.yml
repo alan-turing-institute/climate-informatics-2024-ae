@@ -1,0 +1,11 @@
+name: ci2024ae
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter-book
+  - ghp-import
+  - pip
+  - pip:
+    - sphinx-exercise
