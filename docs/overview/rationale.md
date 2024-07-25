@@ -10,7 +10,7 @@ A committee of reviewers, the Artifact Evaluation Committee (AEC), will review t
 
 We want to avoid disincentivising authors who opt into the reproducibility challenge by having this lead to a slower timeline for publication. For those papers that opt-in, we will therefore publish them initially without the badges (so as not to delay the timeline to publication) and at a later date, after artifact evaluation, publish an addendum and retrospectively update the article with the badge(s).
 
-In the CUP platform there is no functionality for versioning articles. However, there is a precedent for retrospectively updating a published article with a badge by using an addendum. See for example https://doi.org/10.1017/dap.2022.5. In this case, it was a mistake: the original article (https://doi.org/10.1017/dap.2021.38) wasn’t awarded Open Data and Open Materials badges when it should have been. So we published the addendum and retrospectively updated the original article and Data Availability Statement with the badges.
+In the CUP platform there is no functionality for versioning articles. However, there is a precedent for retrospectively updating a published article with a badge by using an addendum. See for example https://doi.org/10.1017/dap.2022.5. In this case, it was a mistake: the original article (https://doi.org/10.1017/dap.2021.38) was not awarded Open Data and Open Materials badges when it should have been. So we published the addendum and retrospectively updated the original article and Data Availability Statement with the badges.
 
 ## Retrospective report
 
