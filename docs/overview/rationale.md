@@ -14,4 +14,4 @@ In the CUP platform there is no functionality for versioning articles. However, 
 
 ## Retrospective report
 
-The reproducibility chairs will produce a general report after the artifact evaluation process documenting the approach and reporting on experiences. Reviewers ==and authors== will be invited to co-author the report, providing their experiences. Any experiences will be anonymised however with respect to the artifacts.
+The reproducibility chairs will produce a general report after the artifact evaluation process documenting the approach and reporting on experiences. Reviewers and authors will be invited to co-author the report, providing their experiences. Any experiences will be anonymised however with respect to the artifacts.
