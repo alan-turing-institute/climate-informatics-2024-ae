@@ -40,9 +40,13 @@ Connect with us via [Turing Environment and Sustainability Slack](https://alan-t
 - Cassandra Gould van Praag (Turing Environment and Sustainability Senior Research Community Manager): cgouldvanpraag@turing.ac.uk
 - Alejandro Coca-Castro (CI2024 Reproducibility Chair): acoca@turing.ac.uk
 
-## Acknowledgements and citation
+## Acknowledgements
 The AE process is developed following [Association for Computing Machinery artifact Review and Badging Version 1.1](https://www.acm.org/publications/artifacts).
 
-This repo and README follow the best practice for community participation of **The Turing Way**:
+This repo and README follow the best practice for community participation of **The Turing Way** {cite:ps}`a-ttw_2022`.
 
-The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2). Zenodo. https://doi.org/10.5281/zenodo.7625728
+## Citation
+```{bibliography}
+:style: alpha
+:keyprefix: a-
+```

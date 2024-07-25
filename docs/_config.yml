@@ -26,8 +26,8 @@ latex:
     targetname: ci2024_ae.tex
 
 # Add a bibtex file so that we can create citations
-#bibtex_bibfiles:
-#  - references.bib
+bibtex_bibfiles:
+  - references.bib
 
 # Information about where the book exists on the web
 repository:
