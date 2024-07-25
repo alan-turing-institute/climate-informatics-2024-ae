@@ -6,7 +6,6 @@ parts:
   chapters:
     - file: overview/rationale
     - file: overview/evaluation
-    - file: overview/future-ideas
 - caption: Details
   chapters:
   - file: details/timeline-schedule
