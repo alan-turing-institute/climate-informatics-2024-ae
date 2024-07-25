@@ -15,15 +15,15 @@ We require a minimum level of practical experience in climate data science to pa
 - Final reviews should be submitted by TBD (mid October)
 
 ## Benefits to reviewers
-Reviewers will benefit from hands-on training in high fidelity computational reproducibility, which we anticipate will support their own development of reproducible research artefacts. Reviewers will be able to reference their contribution as evidence of leadership culture change towards reproducibility, and invited to co-author a retrospective report to be published in [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) after the review process is complete. They will be supported by the CI Reproducibility team and AEC throughout, thereby strengthening their connections with this highly skilled team.
+Reviewers will benefit from hands-on training in high fidelity computational reproducibility, which we anticipate will support their own development of reproducible research artifacts. Reviewers will be able to reference their contribution as evidence of leadership culture change towards reproducibility, and invited to co-author a retrospective report to be published in [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) after the review process is complete. They will be supported by the CI Reproducibility team and AEC throughout, thereby strengthening their connections with this highly skilled team.
 
 ##  Evaluation process
 
-Reviewers will asses the artefacts against a checklists provided for each ["badge" level to be awarded](https://github.com/alan-turing-institute/climate-informatics-2024-ae/blob/main/badges.md).
+Reviewers will asses the artifacts against a checklists provided for each ["badge" level to be awarded](https://github.com/alan-turing-institute/climate-informatics-2024-ae/blob/main/badges.md).
 
 For each point, reviewers will be required to briefly note the evidence for this point, anything they have done to validate that point (e.g., what did you need to reproduce a claim), as well as the outcome (negative, neutral, or positive) and a brief reason for their judgment.
 
 ## Feedback to the authors
 
 This process has been designed to be collaborative and iterative. During the first 3 weeks, reviewers will be able to feed-back to authors.
-Authors will be encouraged to push improvements to the artefact whenever possible. For example, if essential documentation is missing, then rather than submitting a negative evaluation or providing only the reviewers with the required information, the authors should provide that information via a versioned updated to the artefact.
+Authors will be encouraged to push improvements to the artifact whenever possible. For example, if essential documentation is missing, then rather than submitting a negative evaluation or providing only the reviewers with the required information, the authors should provide that information via a versioned updated to the artifact.
