@@ -54,7 +54,7 @@ The AE process is developed following [Association for Computing Machinery artif
 
 This repo and README follow the best practice for community participation of _The Turing Way_ {cite:ps}`a-ttw_2022`.
 
-## Citation
+## References
 
 ```{bibliography}
 :style: alpha
