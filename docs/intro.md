@@ -52,7 +52,7 @@ Connect with us via [Turing Environment and Sustainability Slack](https://alan-t
 
 The AE process is developed following [Association for Computing Machinery artifact Review and Badging Version 1.1](https://www.acm.org/publications/artifacts).
 
-This repo and README follow the best practice for community participation of **The Turing Way** {cite:ps}`a-ttw_2022`.
+This repo and README follow the best practice for community participation of _The Turing Way_ {cite:ps}`a-ttw_2022`.
 
 ## Citation
 
