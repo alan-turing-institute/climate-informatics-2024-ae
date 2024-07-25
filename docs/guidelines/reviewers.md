@@ -15,6 +15,7 @@ We require a minimum level of practical experience in climate data science to pa
 - Final reviews should be submitted by TBD (mid October)
 
 ## Benefits to reviewers
+
 Reviewers will benefit from hands-on training in high fidelity computational reproducibility, which we anticipate will support their own development of reproducible research artifacts. Reviewers will be able to reference their contribution as evidence of leadership culture change towards reproducibility, and invited to co-author a retrospective report to be published in [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) after the review process is complete. They will be supported by the CI Reproducibility team and AEC throughout, thereby strengthening their connections with this highly skilled team.
 
 ##  Evaluation process
