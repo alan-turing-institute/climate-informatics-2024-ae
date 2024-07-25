@@ -18,10 +18,10 @@ For example, Zenodo can be used to deposit a snapshot of the software, providing
 
 The artifacts associated with the research are documented, consistent with the publication, complete, and can be used (exercisable).
 
-- [ ] Documented: At minimum, an inventory of artifacts is included, and sufficient description provided to enable the artifacts to be run.
+- [ ] Documented: At minimum, an inventory of artifacts is included, and sufficient description is provided to enable the artifacts to be run.
 - [ ] Consistent: The artifacts are relevant to the associated paper, and contribute in some inherent way to the generation of its main results.
 - [ ] Complete: To the extent possible, all components relevant to the paper in question are included. (Any proprietary artifacts need not be included or data sets deemed to be too large. If any of these are required to exercise the artifact then this should be documented. Proxies for proprietary or large data should be included (e.g., alternate data sets, or smaller subsets of the data) so as to demonstrate the analysis and give evidence of its veracity.)
-- [ ] Exercisable: Scripts and/or software is provided to generate the results of the associated paper (e.g, figures, tables) and can be successfully executed.
+- [ ] Exercisable: Scripts and/or software is provided to generate the results of the associated paper (e.g., figures, tables) and can be successfully executed.
 
 ## Reusable
 

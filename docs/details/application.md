@@ -4,7 +4,7 @@
 
 The CI2024 Artifact Evaluation will be an asynchronous event held September 1-31, 2023, where authors will collaborate with the AE committee to evaluate and improve the quality of their artifacts.
 
-We provide further information of the key stages, requirements and registration links for Authors and Reviewers.
+We provide further information on the key stages, requirements and registration links for Authors and Reviewers.
 
 ## Information for authors
 
@@ -12,7 +12,7 @@ We provide further information of the key stages, requirements and registration 
 
 We provide below the key stages participants will get involved:
 
-* **Expression of interest:** Participants should fill a registration form for the challenge and indicate some details of the artifacts they will submit for evaluation.
+* **Expression of interest:** Participants should fill out a registration form for the challenge and indicate some details of the artifacts they will submit for evaluation.
 * **Submission deadline:** Authors should submit their artifacts via the HotCRP platform.
 * **Artifact evaluation (5 weeks):** Authors will collaborate with the AE committee to evaluate and improve the quality of their artifacts.
 

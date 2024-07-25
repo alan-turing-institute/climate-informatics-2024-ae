@@ -34,7 +34,7 @@ The overview should be a document (markdown, text, or PDF) consisting of the fol
 
 It can be useful to describe how to perform runs on smaller input data sets. Reviewers may choose to run on smaller inputs or larger inputs depending on available resources.
 
-5. A Reusability Guide for how you propose to evaluate the reusability of your artifact. Explain which parts of your artifact constitute the core pieces which should be evaluated for reusability. Explain how to adapt the artifact to new inputs or new use cases. Provide instructions for how to find/generate/read documentation about the core artifact. Articulate any limitations to the artifact’s reusability.
+5. A Reusability Guide for how you propose to evaluate the reusability of your artifact. Explain which parts of your artifact constitute the core pieces which should be evaluated for reusability. Explain how to adapt the artifact to new inputs or new use cases. Provide instructions for how to find/generate/read the documentation about the core artifact. Articulate any limitations to the artifact’s reusability.
 
 When packaging your artifact, please keep in mind: a) how accessible you are making your artifact to other researchers, and b) the fact that the artifact committee members have a limited time.
 

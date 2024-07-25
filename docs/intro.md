@@ -12,7 +12,7 @@ The practicalities of achieving FAIR software are non-trivial, and require resou
 ## The Solution
 In order to help promote FAIR software in our community, Climate Informatics is embarking, for the first time, on an optional _Artifact Evaluation (AE) phase_ for accepted full paper submissions. Those submissions will published as the conference proceedings in [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) following the traditional peer-review process. 
 
-AE provides an opportunity to embed the values of reproducibility into the publication process in a lightweight opt-in fashion, thus encouraging authors to make software available and the results of the paper reproducible. Submitted arfefacts will be assessed by a skilled team of reviewers, who will work with authors to help them develope and share their materials with the highest practical level of computational reproducibility. 
+AE provides an opportunity to embed the values of reproducibility into the publication process in a lightweight opt-in fashion, thus encouraging authors to make software available and the results of the paper reproducible. Submitted artifacts will be assessed by a skilled team of reviewers, who will work with authors to help them develop and share their materials with the highest practical level of computational reproducibility. 
 
 ## What are we doing?
 We have adopted the AE process of the [Association for Computing Machinery artifact Review and Badging Version 1.1](https://www.acm.org/publications/artifacts), and developed this to fit the specific context of the Climate Informatics community (with minimal changes to retain alignment with this well accepted standard - we do not need to re-invent the wheel!). We have worked with our partners at Cambridge University Press to deliver this process in a way which complements their publication workflow, and does not delay dissemination of the work. 
@@ -21,20 +21,20 @@ The next stage is to design and deliver training and resources to the authors so
 
 Take a look at published materials and decisions made to date:
 - [Rationale](overview-rationale): Describes in detail the rationale, process, and evaluation criteria in place;
-- [Evaluation criteria](overview-evaluation): Provides a checklist which will be used in reviewing and to assess whether the artifacts are available, functional, and reusable.
+- [Evaluation criteria](overview-evaluation): Provides a checklist which will be used in reviewing and assessing whether the artifacts are available, functional, and reusable.
 - [Issues](https://github.com/alan-turing-institute/climate-informatics-2024-ae/issues) is where we are openly recording our decision making processes.
 
 ## What do we need?
 We need authors who are keen to submit their artifacts for evaluation, and reviewers who would like to contribute to the growth of reproducibility in our community! 
 
-We will be recruiting reviewers in the coming weeks, and working with them to deliver the training and support they need to undertake this work. Take a look at the [benefits for reviewers](https://github.com/alan-turing-institute/climate-informatics-2024-ae/blob/main/process.md#benefits-to-reviewers) to understand how participating as a reviewers will be a valuable opportunity for you, and stay tuned on the [Turing Environment and Sustainability Slack](https://alan-turing-institute.github.io/climate-informatics-2024/contact/#slack) for invitations to join the review committee!
+We will be recruiting reviewers in the coming weeks, and working with them to deliver the training and support they need to undertake this work. Take a look at the [benefits for reviewers](https://github.com/alan-turing-institute/climate-informatics-2024-ae/blob/main/process.md#benefits-to-reviewers) to understand how participating as reviewers will be a valuable opportunity for you, and stay tuned on the [Turing Environment and Sustainability Slack](https://alan-turing-institute.github.io/climate-informatics-2024/contact/#slack) for invitations to join the review committee!
 
 ## Who are we?
-This work is being lead by the [Reproducibility working group](https://alan-turing-institute.github.io/climate-informatics-2024/team#reproducibility) of the Climate Informatics 2024 organisers. We are pleased to connect with you if you would like to participate in the leadership or delivery of this work!
+This work is being led by the [Reproducibility working group](https://alan-turing-institute.github.io/climate-informatics-2024/team#reproducibility) of the Climate Informatics 2024 organisers. We are pleased to connect with you if you would like to participate in the leadership or delivery of this work!
 
 ## Contact us
 ### Slack
-Conenct with us via [Turing Environment and Sustainability Slack](https://alan-turing-institute.github.io/climate-informatics-2024/contact/#slack) - tag or dm Cassandra Gould van Praag (Turing Environment and Sustainability Senior Research Community Manager), or Alejandro Coca-Castro (CI2024 Reproducibility Chair)
+Connect with us via [Turing Environment and Sustainability Slack](https://alan-turing-institute.github.io/climate-informatics-2024/contact/#slack) - tag or dm Cassandra Gould van Praag (Turing Environment and Sustainability Senior Research Community Manager), or Alejandro Coca-Castro (CI2024 Reproducibility Chair)
 
 ### Email
 - Cassandra Gould van Praag (Turing Environment and Sustainability Senior Research Community Manager): cgouldvanpraag@turing.ac.uk
@@ -43,6 +43,6 @@ Conenct with us via [Turing Environment and Sustainability Slack](https://alan-t
 ## Acknowledgements and citation
 The AE process is developed following [Association for Computing Machinery artifact Review and Badging Version 1.1](https://www.acm.org/publications/artifacts).
 
-This repo and README follows the best practice for community participation of **The Turing Way**:
+This repo and README follow the best practice for community participation of **The Turing Way**:
 
 The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2). Zenodo. https://doi.org/10.5281/zenodo.7625728
