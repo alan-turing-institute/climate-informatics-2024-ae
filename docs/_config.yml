@@ -6,7 +6,7 @@
 #######################################################################################
 # Book settings
 title                       : Climate Informatics 2024 Artifact Evaluation # The title of the book. Will be placed in the left navbar.
-author                      : The Reproducibility Working Group of the Climate Informatics 2024 Organisers  # The author of the book
+author                      : <a href='https://alan-turing-institute.github.io/climate-informatics-2024/team#reproducibility'>The Reproducibility Working Group</a> of the Climate Informatics 2024 Organisers  # The author of the book
 copyright                   : "2024"  # Copyright year to be placed in the footer
 logo                        : "figures/logo-ae.png"  # A path to the book logo
 only_build_toc_files        : true
