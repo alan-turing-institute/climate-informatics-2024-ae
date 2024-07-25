@@ -5,7 +5,7 @@
 Reviewers will be recruited to the Artifact Evaluation Committee (AEC) from the [Climate Informatics community](http://www.climateinformatics.org) (join [here](https://groups.google.com/g/climate-informatics-news)) and [Turing Environment and Sustainability Grand Challenge community](https://cassgvp.kumu.io/alan-turing-institute-environment-and-sustainability) (join [here](https://forms.office.com/pages/responsepage.aspx?id=p_SVQ1XklU-Knx-672OE-ZmEJNLHTHVFkqQ97AaCfn9UMTZKT1IwTVhJRE82UjUzMVE2MThSOU5RMC4u)). Please join either (or both!) communities to receive updates on reviewer training opportunities.
 
 ## Requirements for reviewers
-We require a minimum level of practical experience in climate data science to participate as a reviewer. This ensures that the review process can focus on technical detail rather than computational literacy. Reviewers will be required to evidence their experience through their own software publications. Full reviewer requirements will be published ==XXX==
+We require a minimum level of practical experience in climate data science to participate as a reviewer. This ensures that the review process can focus on technical detail rather than computational literacy. Reviewers will be required to evidence their experience through their own software publications. 
 
 ## Expected workload
 
