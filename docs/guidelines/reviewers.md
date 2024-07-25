@@ -2,7 +2,7 @@
 
 # Guidelines for Reviewers
 
-Reviewers will be recruited to the Artifact Evaluation Committee from the [Climate Informatics community](http://www.climateinformatics.org) (join [here](https://groups.google.com/g/climate-informatics-news)) and [Turing Environment and Sustainability Grand Challenge community](https://cassgvp.kumu.io/alan-turing-institute-environment-and-sustainability) (join [here](https://forms.office.com/pages/responsepage.aspx?id=p_SVQ1XklU-Knx-672OE-ZmEJNLHTHVFkqQ97AaCfn9UMTZKT1IwTVhJRE82UjUzMVE2MThSOU5RMC4u)). Please join either (or both!) communities to receive updates on reviewer training opportunities.
+Reviewers will be recruited to the Artifact Evaluation Committee (AEC) from the [Climate Informatics community](http://www.climateinformatics.org) (join [here](https://groups.google.com/g/climate-informatics-news)) and [Turing Environment and Sustainability Grand Challenge community](https://cassgvp.kumu.io/alan-turing-institute-environment-and-sustainability) (join [here](https://forms.office.com/pages/responsepage.aspx?id=p_SVQ1XklU-Knx-672OE-ZmEJNLHTHVFkqQ97AaCfn9UMTZKT1IwTVhJRE82UjUzMVE2MThSOU5RMC4u)). Please join either (or both!) communities to receive updates on reviewer training opportunities.
 
 ## Requirements for reviewers
 We require a minimum level of practical experience in climate data science to participate as a reviewer. This ensures that the review process can focus on technical detail rather than computational literacy. Reviewers will be required to evidence their experience through their own software publications. Full reviewer requirements will be published ==XXX==
@@ -16,7 +16,7 @@ We require a minimum level of practical experience in climate data science to pa
 
 ## Benefits to reviewers
 
-Reviewers will benefit from hands-on training in high fidelity computational reproducibility, which we anticipate will support their own development of reproducible research artifacts. Reviewers will be able to reference their contribution as evidence of leadership culture change towards reproducibility, and invited to co-author a retrospective report to be published in [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) after the review process is complete. They will be supported by the CI Reproducibility team and AEC throughout, thereby strengthening their connections with this highly skilled team.
+Reviewers will benefit from hands-on training in high fidelity computational reproducibility, which we anticipate will support their own development of reproducible research artifacts. Reviewers will be able to reference their contribution as evidence of leadership culture change towards reproducibility, and invited to co-author a retrospective report to be published in [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) after the review process is complete. They will be supported by the Climate Informatics Reproducibility team and AEC throughout, thereby strengthening their connections with this highly skilled team.
 
 ##  Evaluation process
 
