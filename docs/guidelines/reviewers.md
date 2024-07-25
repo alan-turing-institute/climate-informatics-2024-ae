@@ -20,7 +20,7 @@ Reviewers will benefit from hands-on training in high fidelity computational rep
 
 ##  Evaluation process
 
-Reviewers will asses the artifacts against a checklists provided for each ["badge" level to be awarded](https://github.com/alan-turing-institute/climate-informatics-2024-ae/blob/main/badges.md).
+Reviewers will asses the artifacts against a checklists provided for each ["badge" level to be awarded](overview-evaluation).
 
 For each point, reviewers will be required to briefly note the evidence for this point, anything they have done to validate that point (e.g., what did you need to reproduce a claim), as well as the outcome (negative, neutral, or positive) and a brief reason for their judgment.
 
