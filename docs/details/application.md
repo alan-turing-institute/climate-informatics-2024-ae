@@ -2,7 +2,7 @@
 
 # Application
 
-The CI2024 Artifact Evaluation will be an asynchronous event held September 1-31, 2023, where authors will collaborate with the AE committee to evaluate and improve the quality of their artifacts.
+The CI2024 Artifact Evaluation will be an asynchronous event held 23 September to 25 October 2024 where authors will collaborate with the AE committee to evaluate and improve the quality of their artifacts.
 
 We provide further information on the key stages, requirements and registration links for Authors and Reviewers.
 
@@ -31,4 +31,4 @@ Here is some information for reviewers:
 
 ### Application form
 
-Registration is now open at this link through 15 Aug @ 23:59 AOE.
+Registration is now open at this [link](https://docs.google.com/forms/d/1hZBOqT9nnl7MZ0HqtuOdfWkdObs5FA9040Ock0oOrWo/prefill) through 15 Aug @ 23:59 AOE.

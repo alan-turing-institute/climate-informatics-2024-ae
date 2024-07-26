@@ -8,8 +8,8 @@ parts:
     - file: overview/evaluation
 - caption: Details
   chapters:
-  - file: details/timeline-schedule
-    title: Timeline and Schedule
+  - file: details/timeline-process
+    title: Timeline and Process
   - file: details/application
     title: Application
 - caption: Guidelines

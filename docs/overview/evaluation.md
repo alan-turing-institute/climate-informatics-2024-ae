@@ -1,6 +1,6 @@
 (overview-evaluation)=
 
-# Evaluation Criteria
+# Evaluation Guidelines
 
 The artifact evaluation process is based on the [artifact Review and Badging Version 1.1](https://www.acm.org/publications/policies/artefact-review-and-badging-current).
 
