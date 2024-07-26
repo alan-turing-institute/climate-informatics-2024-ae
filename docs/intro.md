@@ -24,7 +24,7 @@ The next stage is to design and deliver training and resources to the authors so
 
 Take a look at published materials and decisions made to date:
 - [Rationale](overview-rationale): Describes in detail the rationale, process, and evaluation criteria in place;
-- [Evaluation criteria](overview-evaluation): Provides a checklist which will be used in reviewing and assessing whether the artifacts are available, functional, and reusable.
+- [Evaluation guidelines](overview-evaluation): Provides a checklist which will be used in reviewing and assessing whether the artifacts are available, functional, and reusable.
 - [Issues](https://github.com/alan-turing-institute/climate-informatics-2024-ae/issues) is where we are openly recording our decision making processes.
 
 ## What do we need?
