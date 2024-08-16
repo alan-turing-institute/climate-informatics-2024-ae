@@ -21,7 +21,7 @@ Authors may iteratively improve their artifacts during the process to overcome s
 The detailed submission process is as follows:
 
 1. Register your [interest](details-application) to submit an artifact.
-1. Read the [Submission Guidelines](guidelines-authors) page for details on artifact preparation.
+1. Read the [Submission Guidelines](https://github.com/alan-turing-institute/climate-informatics-2024-ae/blob/main/docs/guidelines/authors.md) page for details on artifact preparation.
 1. Upload your artifact to Zenodo (recommended), or otherwise make it available via a stable URL (i.e. the URL should not change if you later make updates to the artifact; and ideally, the URL has a good chance of continuing to exist well into the future).
 1. Finalize your submission on HotCRP with a link to your artifact.
 
