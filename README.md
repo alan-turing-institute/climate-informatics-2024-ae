@@ -7,6 +7,9 @@ The content of this repository (folder `docs`) is rendered as an online document
 
 **You can access it [here](https://alan-turing-institute.github.io/climate-informatics-2024-ae/)**.
 
+* __Artifact submission deadline for authors:__ Thursday 12 September 2024
+* __Final decisions sent to authors:__ Friday 25 October 2024
+
 ## Contact us
 
 ### Slack
