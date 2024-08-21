@@ -5,7 +5,7 @@ Authors of full-papers that are accepted to the Cambridge University Press (CUP)
 These are the key dates (all dates are in the [Anywhere on Earth (AOE / UTC-12) timezone](https://www.timeanddate.com/time/zones/aoe):
 
 * Expression of interest (Authors): Mon 28 June
-* Expression of interest (Reviewers): Thu 15 August
+* Expression of interest (Reviewers): ~~Thu 15 August~~ Sun 1 September
 * Artifact platform opening: Mon 2 September
 * Artifact submission (deadline): Thu 12 September
 * Start of review phase: Mon 23 September

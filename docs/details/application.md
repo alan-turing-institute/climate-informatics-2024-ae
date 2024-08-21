@@ -31,4 +31,4 @@ Here is some information for reviewers:
 
 ### Application form
 
-Registration is now open at this [link](https://docs.google.com/forms/d/1hZBOqT9nnl7MZ0HqtuOdfWkdObs5FA9040Ock0oOrWo/prefill) through 15 Aug @ 23:59 AOE.
+Registration is now open at this [link](https://docs.google.com/forms/d/1hZBOqT9nnl7MZ0HqtuOdfWkdObs5FA9040Ock0oOrWo/prefill) through 1 Sep @ 23:59 AOE.
