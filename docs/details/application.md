@@ -13,7 +13,7 @@ We provide further information on the key stages, requirements and registration 
 We provide below the key stages participants will get involved:
 
 * **Expression of interest:** Participants should fill out a registration form for the challenge and indicate some details of the artifacts they will submit for evaluation.
-* **Submission deadline:** Authors should submit their artifacts via the HotCRP platform.
+* **Submission deadline:** Authors should submit their artifacts via [the HotCRP platform](https://ci2024-artifacts.hotcrp.com/).
 * **Artifact evaluation (5 weeks):** Authors will collaborate with the AE committee to evaluate and improve the quality of their artifacts.
 
 ### Application form
