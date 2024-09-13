@@ -9,7 +9,7 @@ The content of this repository (folder `docs`) is rendered as an online document
 
 ## Key Dates
 
-* __Artifact submission deadline for authors:__ Thursday 12 September 2024
+* __Artifact submission deadline (extended) for authors:__ Thursday 19 September 2024
 * __Final decisions sent to authors:__ Friday 25 October 2024
 
 ## Contact us

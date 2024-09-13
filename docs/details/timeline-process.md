@@ -7,7 +7,7 @@ These are the key dates (all dates are in the [Anywhere on Earth (AOE / UTC-12) 
 * Expression of interest (Authors): Mon 28 June
 * Expression of interest (Reviewers): Sun 1 September
 * Artifact platform opening: Mon 2 September
-* Artifact submission (deadline): Thu 12 September
+* Artifact submission (extended deadline): Thu 19 September
 * Start of review phase: Mon 23 September
 * Further clarifications until Thu 24 October
 * Final decisions sent to authors: Fri 25 October
