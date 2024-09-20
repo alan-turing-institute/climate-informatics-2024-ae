@@ -28,3 +28,11 @@ For each point, reviewers will be required to briefly note the evidence for this
 
 This process has been designed to be collaborative and iterative. During the first 3 weeks, reviewers will be able to feed-back to authors.
 Authors will be encouraged to push improvements to the artifact whenever possible. For example, if essential documentation is missing, then rather than submitting a negative evaluation or providing only the reviewers with the required information, the authors should provide that information via a versioned updated to the artifact.
+
+## Support
+
+There was a 1-hour informal session on 19th September, 2024 for reviewers who expressed interest in evaluating the submitted artifacts. The recording is available [here](https://drive.google.com/file/d/1Hci6PcpLSXO0UDwsVeWPmJrEcQYaLRtI/view?usp=sharing).
+
+We also organised a panel about reproducibility at CI2024 which provided some motivation and inspiration. The recording is available [here](https://youtu.be/_cJGsfoKo0w?feature=shared).
+
+The artifact chairs are available to ask any questions about the process or to ask advice about preparing the artifact or if any parts of the process are unclear.
