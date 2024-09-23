@@ -7,10 +7,10 @@ These are the key dates (all dates are in the [Anywhere on Earth (AOE / UTC-12) 
 * Expression of interest (Authors): Mon 28 June
 * Expression of interest (Reviewers): Sun 1 September
 * Artifact platform opening: Mon 2 September
-* Artifact submission (extended deadline): Thu 19 September
-* Start of review phase: Mon 23 September
-* Further clarifications until Thu 24 October
-* Final decisions sent to authors: Fri 25 October
+* Artifact submission (extended deadline): Thu 3 October
+* Start of review phase: Mon 7 October
+* Further clarifications until Thu 7 November
+* Final decisions sent to authors: Fri 8 November
 
 # Process
 The evaluation process uses an optional, lightweight single-blind system. Authors and Reviewers will be added to [the HotCRP system of the CI2024 Artifact Evaluation](https://ci2024-artifacts.hotcrp.com/), and the authors will submit their artifacts to the system.

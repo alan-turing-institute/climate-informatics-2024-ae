@@ -3,8 +3,8 @@
 Welcome to the Climate Informatics 2024 Artifact Evaluation Initiative!
 
 ```{admonition} Key Dates
-* __Artifact submission deadline (extended) for authors:__ Thursday 19 September 2024
-* __Final decisions sent to authors:__ Friday 25 October 2024
+* __Artifact submission deadline (extended) for authors:__ Thursday 4 October 2024
+* __Final decisions sent to authors:__ Friday 8 November 2024
 ```
 
 ## The Problem
