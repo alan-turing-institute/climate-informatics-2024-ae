@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Coca-Castro
+    given-names: Alejandro
+    affiliation: The Alan Turing Institute
+    orcid: https://orcid.org/0000-0002-9264-1539
+  - family-names: Hyde
+    given-names: Andrew
+    affiliation: Cambridge University Press
+  - family-names: Gould van Praag
+    given-names: Cassandra
+    affiliation: The Alan Turing Institute
+    orcid: https://orcid.org/0000-0002-8584-4637
+  - family-names: Orchard
+    given-names: Dominic
+    affiliation: The Institute of Computing for Climate Science
+    orcid: https://orcid.org/0000-0002-7058-7842
+  - family-names: Perera
+    given-names: Roly
+    affiliation: The Institute of Computing for Climate Science
+    orcid: https://orcid.org/0000-0001-9249-9862
+  - family-names: Weinzierl
+    given-names: Marion
+    affiliation: The Institute of Computing for Climate Science
+    orcid: https://orcid.org/0000-0002-2302-5476
+title: Climate Informatics 2024 Artifact Evaluation Initiative
+version: pre-event
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14450850
+    description: The concept DOI for the collection containing all versions of the notebook.
+abstract: "In 2024, the Climate Informatics conference embarked, for the first time, on adding an Artifact Evaluation (AE) process following the standard peer review process. This provided an opportunity to embed the values of reproducibility into the publication process in a lightweight opt-in fashion, thus encouraging authors to make software available and the results of the paper reproducible.  The submitted artifacts were evaluated by a team of reviewers who provided feedback to the authors to help develop their artifacts towards a higher standard of computational reproducibility."
