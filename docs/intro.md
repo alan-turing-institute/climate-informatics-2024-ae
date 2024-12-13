@@ -42,6 +42,16 @@ We will be recruiting reviewers in the coming weeks, and working with them to de
 
 This work is being led by the [Reproducibility working group](https://alan-turing-institute.github.io/climate-informatics-2024/team#reproducibility) of the Climate Informatics 2024 organisers. We are pleased to connect with you if you would like to participate in the leadership or delivery of this work!
 
+## Programme Committee
+
+We thank the program committee for being available to review the submitted papers!
+
+* Alexandra Udaltsova (Open Climate Fix)
+* Bryn Noel Ubald (British Antarctic Survey)
+* Etienne Roesch (University of Reading)
+* James Emberton (ICCS, University of Cambridge)
+* James Robinson (Alan Turing Institute)
+
 ## Contact us
 
 ### Slack

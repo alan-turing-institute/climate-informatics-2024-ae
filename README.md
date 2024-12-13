@@ -12,6 +12,16 @@ The content of this repository (folder `docs`) is rendered as an online document
 * __Artifact submission deadline (extended) for authors:__ Thursday 4 October 2024
 * __Final decisions sent to authors:__ Friday 8 November 2024
 
+## Programme Committee
+
+We thank the program committee for being available to review the submitted papers!
+
+* Alexandra Udaltsova (Open Climate Fix)
+* Bryn Noel Ubald (British Antarctic Survey)
+* Etienne Roesch (University of Reading)
+* James Emberton (ICCS, University of Cambridge)
+* James Robinson (Alan Turing Institute)
+
 ## Contact us
 
 ### Slack
