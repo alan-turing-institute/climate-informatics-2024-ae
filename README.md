@@ -20,7 +20,7 @@ The source code is released on GitHub and archived on Zenodo. This DOI will alwa
 This work was led by the [Reproducibility working group](https://alan-turing-institute.github.io/climate-informatics-2024/team#reproducibility) of the Climate Informatics 2024 organisers.
 
 ### Program Committee
-We thank the program committee for being available to review the submitted artifacs!
+We thank the program committee for being available to review the submitted artifacts!
 
 - Alexandra Udaltsova (Open Climate Fix)
 - Bryn Noel Ubald (British Antarctic Survey)
