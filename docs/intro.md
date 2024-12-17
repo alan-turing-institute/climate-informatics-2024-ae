@@ -2,11 +2,6 @@
 
 Welcome to the Climate Informatics 2024 Artifact Evaluation Initiative!
 
-```{admonition} Key Dates
-* __Artifact submission deadline (extended) for authors:__ Thursday 4 October 2024
-* __Final decisions sent to authors:__ Friday 8 November 2024
-```
-
 ## The Problem
 
 Climate Informatics, like many other communities and fields, has software at its heart. Underlying most publications is a novel piece of software playing some critical role, e.g., embodying a model, processing or analysing data, or producing a visualisation. 
