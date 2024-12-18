@@ -2,11 +2,6 @@
 
 Welcome to the Climate Informatics 2024 Artifact Evaluation Initiative!
 
-```{admonition} Key Dates
-* __Artifact submission deadline (extended) for authors:__ Thursday 4 October 2024
-* __Final decisions sent to authors:__ Friday 8 November 2024
-```
-
 ## The Problem
 
 Climate Informatics, like many other communities and fields, has software at its heart. Underlying most publications is a novel piece of software playing some critical role, e.g., embodying a model, processing or analysing data, or producing a visualisation. 
@@ -55,6 +50,19 @@ Connect with us via [Turing Environment and Sustainability Slack](https://alan-t
 
 ## Acknowledgements
 
+### Program Committee
+We thank the program committee for being available to review the submitted artifacts!
+
+- Alexandra Udaltsova (Open Climate Fix)
+- Bryn Noel Ubald (British Antarctic Survey)
+- Etienne Roesch (University of Reading)
+- James Emberton (ICCS, University of Cambridge)
+- James Robinson (The Alan Turing Institute)
+
+### Organisations
+Climate Informatics 2024 Artifact Evaluation is hosted by the [Climate Informatics](http://www.climateinformatics.org) community with support from [Cambridge University Press & Assessment](https://www.cambridge.org), [The Alan Turing Institute](https://www.turing.ac.uk) and [The Institute of Computing for Climate Science](https://iccs.cam.ac.uk).
+
+### Others
 The AE process is developed following [Association for Computing Machinery artifact Review and Badging Version 1.1](https://www.acm.org/publications/artifacts).
 
 This repo and README follow the best practice for community participation of _The Turing Way_ {cite:ps}`a-ttw_2022`.

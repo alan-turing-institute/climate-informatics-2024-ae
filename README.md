@@ -7,21 +7,26 @@ The content of this repository (folder `docs`) is rendered as an online document
 
 **You can access it [here](https://alan-turing-institute.github.io/climate-informatics-2024-ae/)**.
 
-## Key Dates
+## How to Cite
+The material is licensed for free and open consumption and reuse under Creative Commons BY 4.0 (CC BY 4.0). 
 
-* __Artifact submission deadline (extended) for authors:__ Thursday 4 October 2024
-* __Final decisions sent to authors:__ Friday 8 November 2024
+The source code is released on GitHub and archived on Zenodo. This DOI will always resolve to the latest release:
 
-## Contact us
-
-### Slack
-
-Connect with us via [Turing Environment and Sustainability Slack](https://alan-turing-institute.github.io/climate-informatics-2024/contact/#slack) - tag or dm Alejandro Coca-Castro (CI2024 Reproducibility Chair), or Dominic Orchard (CI2024 Reproducibility Co-Chair)
-
-### Email
-
-- Alejandro Coca-Castro (CI2024 Reproducibility Chair): acoca@turing.ac.uk
-- Dominic Orchard (CI2024 Reproducibility Co-Chair): dao29@cam.ac.uk
+[![Cite this using DOI](https://zenodo.org/badge/374708612.svg)](https://zenodo.org/badge/latestdoi/374708612)          
 
 ## Acknowledgments 🙌 
+
+### Organising Committee
+This work was led by the [Reproducibility working group](https://alan-turing-institute.github.io/climate-informatics-2024/team#reproducibility) of the Climate Informatics 2024 organisers.
+
+### Program Committee
+We thank the program committee for being available to review the submitted artifacts!
+
+- Alexandra Udaltsova (Open Climate Fix)
+- Bryn Noel Ubald (British Antarctic Survey)
+- Etienne Roesch (University of Reading)
+- James Emberton (ICCS, University of Cambridge)
+- James Robinson (The Alan Turing Institute)
+
+### Organisations
 Climate Informatics 2024 Artifact Evaluation is hosted by the [Climate Informatics](http://www.climateinformatics.org) community with support from [Cambridge University Press & Assessment](https://www.cambridge.org), [The Alan Turing Institute](https://www.turing.ac.uk) and [The Institute of Computing for Climate Science](https://iccs.cam.ac.uk).
