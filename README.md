@@ -26,7 +26,7 @@ We thank the program committee for being available to review the submitted artif
 - Bryn Noel Ubald (British Antarctic Survey)
 - Etienne Roesch (University of Reading)
 - James Emberton (ICCS, University of Cambridge)
-- James Robinson (Alan Turing Institute)
+- James Robinson (The Alan Turing Institute)
 
 ### Organisations
 Climate Informatics 2024 Artifact Evaluation is hosted by the [Climate Informatics](http://www.climateinformatics.org) community with support from [Cambridge University Press & Assessment](https://www.cambridge.org), [The Alan Turing Institute](https://www.turing.ac.uk) and [The Institute of Computing for Climate Science](https://iccs.cam.ac.uk).
