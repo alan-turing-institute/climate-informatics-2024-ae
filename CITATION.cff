@@ -25,7 +25,7 @@ authors:
     affiliation: The Institute of Computing for Climate Science
     orcid: https://orcid.org/0000-0002-2302-5476
 title: Climate Informatics 2024 Artifact Evaluation Initiative
-version: pre-event-alpha
+version: 2025.04.0
 identifiers:
   - type: doi
     value: 10.5281/zenodo.14450850

@@ -12,7 +12,7 @@ The material is licensed for free and open consumption and reuse under Creative 
 
 The source code is released on GitHub and archived on Zenodo. This DOI will always resolve to the latest release:
 
-[![Cite this using DOI](https://zenodo.org/badge/783645874.svg)](https://zenodo.org/badge/latestdoi/14450850)          
+[![Cite this using DOI](https://zenodo.org/badge/783645874.svg)](https://zenodo.org/badge/latestdoi/783645874)          
 
 ## Acknowledgments 🙌 
 
